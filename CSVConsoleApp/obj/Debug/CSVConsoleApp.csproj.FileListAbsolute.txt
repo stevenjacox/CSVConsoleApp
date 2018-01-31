@@ -1,0 +1,7 @@
+c:\users\steven\documents\visual studio 2017\Projects\CSVConsoleApp\CSVConsoleApp\obj\Debug\CSVConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\steven\documents\visual studio 2017\Projects\CSVConsoleApp\CSVConsoleApp\obj\Debug\CSVConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\steven\documents\visual studio 2017\Projects\CSVConsoleApp\CSVConsoleApp\bin\Debug\CSVConsoleApp.exe.config
+c:\users\steven\documents\visual studio 2017\Projects\CSVConsoleApp\CSVConsoleApp\bin\Debug\CSVConsoleApp.exe
+c:\users\steven\documents\visual studio 2017\Projects\CSVConsoleApp\CSVConsoleApp\bin\Debug\CSVConsoleApp.pdb
+c:\users\steven\documents\visual studio 2017\Projects\CSVConsoleApp\CSVConsoleApp\obj\Debug\CSVConsoleApp.exe
+c:\users\steven\documents\visual studio 2017\Projects\CSVConsoleApp\CSVConsoleApp\obj\Debug\CSVConsoleApp.pdb
